@@ -1,4 +1,3 @@
-from unittest.util import strclass
 import dice_roller as dr
 
 def main():
